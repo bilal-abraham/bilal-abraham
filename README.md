@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @bilal-abraham, feel free to look through my repos!
 <br>
-👀 I’m interested in -> Advent of Code
+👀 I’m interested in -> [Advent of Code][adventofcode]
 <br>
 💻 I'm coding -> [Ride the East Bay][ridetheeastbay] & [LynkHub][lynkhub]
 <br>
@@ -39,6 +39,7 @@
 
 [ridetheeastbay]: https://ridetheeastbay.tk
 [lynkhub]: https://github.com/f-habibCA/LynkHub.git
+[adventofcode]: https://github.com/bilal-abraham/AoC/tree/main/2021
 
 [instagram]: https://www.instagram.com/bilalabraham_/
 [linkedin]: https://www.linkedin.com/in/bilal-abraham-3140491b8/
