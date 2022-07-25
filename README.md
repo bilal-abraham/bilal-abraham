@@ -4,7 +4,7 @@
 <br>
 👀 I’m interested in -> [Advent of Code][adventofcode]
 <br>
-💻 I'm coding -> [hrsleaks][hrsleaks] & [LynkHub][lynkhub]
+💻 I'm coding -> [hrsleaks][hrsleaks] & [Ride The East Bay][ridetheeastbay]
 <br>
 🌱 I’m currently learning -> Rust, Firebase
 <br>
