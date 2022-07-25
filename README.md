@@ -35,9 +35,7 @@
 <br>
 
 ---
-
-[ridetheeastbay]: https://ridetheeastbay.tk
-[lynkhub]: https://github.com/f-habibCA/LynkHub.git
+[ridetheeastbay]: https://github.com/bilal-abraham/ridetheeastbay.git
 [adventofcode]: https://github.com/bilal-abraham/AoC/tree/main/2021
 [hrsleaks]: https://github.com/bilal-abraham/hrsleaks
 
