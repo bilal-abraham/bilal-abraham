@@ -4,11 +4,9 @@
 <br>
 👀 I’m interested in -> [Advent of Code][adventofcode]
 <br>
-💻 I'm coding -> [hrsleaks][hrsleaks] & [Ride The East Bay][ridetheeastbay]
+💻 I'm coding -> [ExploraVist][exploravist]
 <br>
-🌱 I’m currently learning -> Rust, Firebase
-<br>
-💞️ I’m looking to collaborate on -> LynkHub & hrsleaks
+🌱 I’m currently learning -> C
 <br>
 📫 How to reach me -> bilal.abraham.717@gmail.com
 
@@ -37,7 +35,7 @@
 ---
 [ridetheeastbay]: https://github.com/bilal-abraham/ridetheeastbay.git
 [adventofcode]: https://github.com/bilal-abraham/AoC/tree/main/2021
-[hrsleaks]: https://github.com/bilal-abraham/hrsleaks
+[exploravist]: https://github.com/ExploraVist/Exploravist
 
 [instagram]: https://www.instagram.com/bilalabraham_/
 [linkedin]: https://www.linkedin.com/in/bilal-abraham-3140491b8/
