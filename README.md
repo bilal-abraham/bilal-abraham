@@ -6,7 +6,7 @@
 <br>
 💻 I'm coding -> [ExploraVist][exploravist]
 <br>
-🌱 I’m currently learning -> C
+🌱 I’m currently learning -> lynx.js
 <br>
 📫 How to reach me -> bilal.abraham.717@gmail.com
 
