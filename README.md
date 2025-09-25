@@ -8,7 +8,7 @@
 <br>
 🌱 I’m currently learning -> lynx.js
 <br>
-📫 How to reach me -> bilal.abraham.717@gmail.com
+📫 How to reach me -> babraham@hmc.edu
 
 ---
 
